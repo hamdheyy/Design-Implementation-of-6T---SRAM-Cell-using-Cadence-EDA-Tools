@@ -1,5 +1,5 @@
 # Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
-Ex No: 01     Design & Implementation of 6T SRAM using Cadence EDA Tools   
+Ex No: 04    Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 Aim:
 To design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools, simulate its functionality, and analyze key performance parameters such as read/write operations, power consumption, and stability to understand its behavior in memory design.
@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0021](https://github.com/user-attachments/assets/31694272-dca3-40a2-8f86-265f8b0aba2e)
+![WhatsApp Image 2024-11-16 at 11 22 04_f4e79ace](https://github.com/user-attachments/assets/a7ab974c-8600-4927-bc87-ce36a21eb78c)
+
 
 
 
@@ -65,6 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![WhatsApp Image 2024-11-16 at 11 23 50_c7131d39](https://github.com/user-attachments/assets/1cc8736d-8369-4d10-b14d-5aadcdaeca83)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -80,22 +83,11 @@ Analog simulation by SPECTRE.
 
 
 For Transient Analysis Settings and Output
+![WhatsApp Image 2024-11-16 at 11 23 50_1723489b](https://github.com/user-attachments/assets/bbb0dcec-b32d-45ba-b2e4-9a57b550d12e)
 
+![WhatsApp Image 2024-11-16 at 11 26 03_2d52ed2c](https://github.com/user-attachments/assets/9fa6b82a-1d92-4d59-9b20-2d3ad9e897bd)
 
-![IMG-20241019-WA0024](https://github.com/user-attachments/assets/40461d9e-0487-4d64-8119-5ccbbf2e4628)
-
-![IMG-20241019-WA0023](https://github.com/user-attachments/assets/f7a02f13-935d-4320-b057-9d9bca02af82)
 
 
 Results:
 The design and implementation of the 6T SRAM cell using Cadence EDA tools were successfully achieved. Simulation results validated the correct functionality and performance of the SRAM cell, including stable read/write operations,
-
-
-
-
-
-
-
-
-
-
